@@ -1,4 +1,4 @@
-# Welcome-to-Brazil <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+# Welcome to Brazil <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 📜  Esse é um repositório compartilhado, para realizar a criação de um Game de Perguntas e Respostas com um tema geral sobre o que acontece no Brasil na atualidade.
  
  📊 Colaboradores:
