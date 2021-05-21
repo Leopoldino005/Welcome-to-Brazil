@@ -4,8 +4,11 @@
  📊 Colaboradores:
  
  -💻 Gabariel Leopoldino;
+ 
  -💻 Kauã Alves;
+ 
  -💻 Lavínia Dias;
+ 
  -💻 Rafaela Rodrigues.
 
 ### Telas do App:
