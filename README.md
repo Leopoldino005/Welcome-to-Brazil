@@ -1,6 +1,7 @@
 # Welcome to Brazil <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 #### 📜  Esse é um repositório compartilhado, para realizar a criação de um Game de Perguntas e Respostas com um tema geral sobre o que acontece no Brasil na atualidade.
  
+ 
 #### Colaboradores <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
 
  
@@ -11,7 +12,19 @@
  -💻 Lavínia Dias;
  
  -💻 Rafaela Rodrigues.
+ 
+ 
+ 
+ Divisão de tarefas:
+ 
+ Parte gráfica: Lavínia
+ 
+ Organizar o repositório: Rafaela
+ 
+ Fazer o código e comentar: Gabriel e Kauã
+ 
 
+ 
 ### Telas do App:
 1°tela: 
 
